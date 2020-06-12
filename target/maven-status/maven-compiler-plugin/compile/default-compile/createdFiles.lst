@@ -1,0 +1,7 @@
+quarkus/UnusedLambda.class
+quarkus/OutputObject.class
+quarkus/ProcessingService.class
+quarkus/InputObject.class
+quarkus/StreamLambda.class
+META-INF/sisu/javax.inject.Named
+quarkus/TestLambda.class

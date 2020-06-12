@@ -1,0 +1,3 @@
+quarkus.StreamLambda
+quarkus.TestLambda
+quarkus.UnusedLambda
